@@ -26,5 +26,4 @@ export default function InvoiceStatus({ status }: { status: string }) {
       ) : null}
     </span>
   );
-}
-<div style={clsx('className', {'textColor': 'condition', 'style': 'condition'})}></div>
+};
